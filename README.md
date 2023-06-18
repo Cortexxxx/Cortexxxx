@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cortexxxx
 - 👀 I’m interested in Gamedev, C#
 - 🌱 I’m currently learning Unity
-- 📫 How to reach me Discord: Cortex#8411
+- 📫 How to reach me Discord: dweride
 
 <!---
 Cortexxxx/Cortexxxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
