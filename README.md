@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cortexxxx
+- 👋 Hi, I’m @Dweride (Nikita)
 - 👀 I’m interested in Gamedev, C#
 - 🌱 I’m currently learning Unity
 - 📫 How to reach me Discord: dweride
